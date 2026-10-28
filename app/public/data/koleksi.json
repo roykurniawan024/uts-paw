@@ -3,8 +3,80 @@
     "id": "1",
     "judul": "Contoh item pertama",
     "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "sutradara": "ganti sesuai field tema",
+    "tahunRilis": 0,
+    "rating": "ganti sesuai field tema"
+  },
+  {
+    "id": "2",
+    "judul": "Contoh item pertama",
+    "kategori": "Contoh",
+    "sutradara": "ganti sesuai field tema",
+    "tahunRilis": 0,
+    "rating": "ganti sesuai field tema"
+  },
+  {
+    "id": "3",
+    "judul": "Contoh item pertama",
+    "kategori": "Contoh",
+    "sutradara": "ganti sesuai field tema",
+    "tahunRilis": 0,
+    "rating": "ganti sesuai field tema"
+  },
+  {
+    "id": "4",
+    "judul": "Contoh item pertama",
+    "kategori": "Contoh",
+    "sutradara": "ganti sesuai field tema",
+    "tahunRilis": 0,
+    "rating": "ganti sesuai field tema"
+  },
+  {
+    "id": "5",
+    "judul": "Contoh item pertama",
+    "kategori": "Contoh",
+    "sutradara": "ganti sesuai field tema",
+    "tahunRilis": 0,
+    "rating": "ganti sesuai field tema"
+  },
+  {
+    "id": "6",
+    "judul": "Contoh item pertama",
+    "kategori": "Contoh",
+    "sutradara": "ganti sesuai field tema",
+    "tahunRilis": 0,
+    "rating": "ganti sesuai field tema"
+  },
+  {
+    "id": "7",
+    "judul": "Contoh item pertama",
+    "kategori": "Contoh",
+    "sutradara": "ganti sesuai field tema",
+    "tahunRilis": 0,
+    "rating": "ganti sesuai field tema"
+  },
+  {
+    "id": "8",
+    "judul": "Contoh item pertama",
+    "kategori": "Contoh",
+    "sutradara": "ganti sesuai field tema",
+    "tahunRilis": 0,
+    "rating": "ganti sesuai field tema"
+  },
+  {
+    "id": "9",
+    "judul": "Contoh item pertama",
+    "kategori": "Contoh",
+    "sutradara": "ganti sesuai field tema",
+    "tahunRilis": 0,
+    "rating": "ganti sesuai field tema"
+  },
+  {
+    "id": "10",
+    "judul": "Contoh item pertama",
+    "kategori": "Contoh",
+    "sutradara": "ganti sesuai field tema",
+    "tahunRilis": 0,
+    "rating": "ganti sesuai field tema"
   }
 ]
