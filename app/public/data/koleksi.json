@@ -1,82 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "sutradara": "ganti sesuai field tema",
-    "tahunRilis": 0,
-    "rating": "ganti sesuai field tema"
+    "judul": "Agak Len",
+    "kategori": "Komedi",
+    "sutradara": "Muhadkly Acho",
+    "tahunRilis": 2024,
+    "rating": "9"
   },
   {
     "id": "2",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "sutradara": "ganti sesuai field tema",
-    "tahunRilis": 0,
-    "rating": "ganti sesuai field tema"
+    "judul": "Gadis Kretek",
+    "kategori": "Drama",
+    "sutradara": "Kamila Andini",
+    "tahunRilis": 2023,
+    "rating": "8"
   },
   {
     "id": "3",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "sutradara": "ganti sesuai field tema",
-    "tahunRilis": 0,
-    "rating": "ganti sesuai field tema"
+    "judul": "Mencuri Raden Saleh",
+    "kategori": "Aksi",
+    "sutradara": "Angga Dwimas Sasongko",
+    "tahunRilis": 2022,
+    "rating": "9"
   },
   {
     "id": "4",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "sutradara": "ganti sesuai field tema",
-    "tahunRilis": 0,
-    "rating": "ganti sesuai field tema"
+    "judul": "Jumbo",
+    "kategori": "Animasi",
+    "sutradara": "Ryan Adriandhy",
+    "tahunRilis": 2025,
+    "rating": "9"
   },
   {
     "id": "5",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "sutradara": "ganti sesuai field tema",
-    "tahunRilis": 0,
-    "rating": "ganti sesuai field tema"
+    "judul": "Keluarga Cemara",
+    "kategori": "Drama",
+    "sutradara": "Yandy Laurens",
+    "tahunRilis": 2019,
+    "rating": "8"
   },
   {
     "id": "6",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "sutradara": "ganti sesuai field tema",
-    "tahunRilis": 0,
-    "rating": "ganti sesuai field tema"
+    "judul": "Avengers Doomsday",
+    "kategori": "Aksi",
+    "sutradara": "Anthony dan Joe Russo",
+    "tahunRilis": 2026,
+    "rating": "9"
   },
   {
     "id": "7",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "sutradara": "ganti sesuai field tema",
-    "tahunRilis": 0,
-    "rating": "ganti sesuai field tema"
+    "judul": "Spider-Man Brand New Day",
+    "kategori": "Aksi",
+    "sutradara": "Destin Daniel Cretton",
+    "tahunRilis": 2026,
+    "rating": "9"
   },
   {
     "id": "8",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "sutradara": "ganti sesuai field tema",
-    "tahunRilis": 0,
-    "rating": "ganti sesuai field tema"
+    "judul": "KKN di Desa Penari",
+    "kategori": "Horror",
+    "sutradara": "Awi Suryadi",
+    "tahunRilis": 2022,
+    "rating": "8"
   },
   {
     "id": "9",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "sutradara": "ganti sesuai field tema",
-    "tahunRilis": 0,
-    "rating": "ganti sesuai field tema"
+    "judul": "Ice Cold Jessica Wongso",
+    "kategori": "Dokumenter",
+    "sutradara": "Rob Sixsmith",
+    "tahunRilis": 2023,
+    "rating": "8"
   },
   {
     "id": "10",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "sutradara": "ganti sesuai field tema",
-    "tahunRilis": 0,
-    "rating": "ganti sesuai field tema"
+    "judul": "Inside Out 2",
+    "kategori": "Animasi",
+    "sutradara": "Kelsey Mann",
+    "tahunRilis": 2024,
+    "rating": "9"
   }
 ]
