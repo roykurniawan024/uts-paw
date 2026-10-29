@@ -1,7 +1,9 @@
 .kerangka {
+  background: #141414;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  color: #f5f5f5;
 }
 
 .kepala {
@@ -11,13 +13,23 @@
   padding: 1rem 1.5rem;
 }
 
+.kepala strong {
+  color: #e50914;
+}
+
 .menu {
   display: flex;
   gap: 1rem;
 }
 
+.menu a {
+  color: #d1d5db;
+  text-decoration: none;
+}
+
 .menu a.active {
   font-weight: 600;
+  color: #e50914;
 }
 
 .isi {
@@ -65,18 +77,31 @@
 
 .kartu {
   padding: 1rem;
-  border: 1px solid #dcdcdc;
+  background: #1f1f1f;
+  border: 1px solid #333333;
+  border-left: 4px solid #e50914;
   border-radius: 8px;
 }
 
 .kartu h3 {
   margin: 0 0 0.25rem;
   font-size: 1.05rem;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.kartu a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.kartu a:hover {
+  color: #e50914;
 }
 
 .kartu p {
   margin: 0;
-  color: #57606a;
+  color: #9ca3af;
 }
 
 .alat-koleksi {
@@ -88,8 +113,10 @@
 
 .alat-koleksi input,
 .alat-koleksi select {
+  background: #1f1f1f;
+  color: #f5f5f5;
   padding: 0.5rem 0.75rem;
-  border: 1px solid #c4c4c4;
+  border: 1px solid #333333;
   border-radius: 6px;
   font: inherit;
 }
@@ -106,7 +133,8 @@
 }
 
 #header-tontonan {
-  border-bottom: 1px solid #e5e7eb;
+  background: #0b0b0b;
+  border-bottom: 1px solid #2a2a2a;
 }
 
 #main-tontonan {

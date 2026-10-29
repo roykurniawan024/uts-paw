@@ -29,7 +29,7 @@ function buka(path) {
 
 test('menampilkan data hasil fetch di halaman koleksi', async () => {
   buka('/koleksi')
-  expect(await screen.findByText('Gadis Kretek')).toBeInTheDocument()
+  expect(await screen.findByText('Agak Laen')).toBeInTheDocument()
 })
 
 test('form menolak judul kosong', async () => {
@@ -45,7 +45,7 @@ test('rute tidak dikenal menampilkan 404', () => {
 
 test('beranda menampilan judul', () => {
   buka('/')
-  expect(screen.getByRole('Daftar Tontonan Film dan Serial', { name: '404' })).toBeInTheDocument()
+  expect(screen.getByRole('heading', { name: 'Daftar Tontonan Film dan Serial' })).toBeInTheDocument()
 })
 
 test('tentang menampilan nama', () => {
