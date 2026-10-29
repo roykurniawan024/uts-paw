@@ -45,7 +45,7 @@ test('rute tidak dikenal menampilkan 404', () => {
 
 test('beranda menampilan judul', () => {
   buka('/')
-  expect(screen.getByRole('heading', { name: 'Daftar Tontonan Film dan Serial' })).toBeInTheDocument()
+  expect(screen.getByRole('heading', { name: 'LAYARKACA24' })).toBeInTheDocument()
 })
 
 test('tentang menampilan nama', () => {
