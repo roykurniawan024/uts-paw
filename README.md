@@ -69,7 +69,7 @@ Nama: Roy Kurniawan
 NIM: 124140024
 Kelas: RA
 Tema: Daftar Tontonan Film dan Serial
-Deployment: https://USERNAME.github.io/uts-paw/
+Deployment: https://roykurniawan024.github.io/uts-paw/
 
 ![Tangkapan layar beranda](docs/beranda.png)
 
