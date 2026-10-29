@@ -163,3 +163,14 @@
 .menu a:hover {
   text-decoration: underline;
 }
+
+.tombol-film {
+  display: inline-block;
+  margin-top: 0.75rem;
+  padding: 0.6rem 1.4rem;
+  background: #e50914;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+}

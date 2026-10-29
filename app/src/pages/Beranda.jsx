@@ -17,7 +17,7 @@ export default function Beranda() {
           Ada {items.length} tontonan dalam {jumlahKategori} kategori.
         </p>
       )}
-      <Link to="/koleksi">Lihat semua tontonan</Link>
+      <Link to="/koleksi" className='tombol-film'>Lihat Semua Film</Link>
     </section>
   )
 }
