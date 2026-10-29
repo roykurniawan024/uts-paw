@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@400;500;600&display=swap');
+
 .kerangka {
   background: #141414;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
   color: #f5f5f5;
+  font-family: 'poppins', sans-serif;
 }
 
 .kepala {
@@ -13,9 +16,20 @@
   padding: 1rem 1.5rem;
 }
 
+.kepala strong,
+.isi h1 {
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1.5px;
+}
+
 .kepala strong {
   color: #e50914;
-  font-size: 1.4rem;
+  font-size: 1.8rem;
+}
+
+.isi h1 {
+  font-size: 2.2rem;
+  margin-top: 0;
 }
 
 .menu {
