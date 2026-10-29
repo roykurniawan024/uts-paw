@@ -42,3 +42,13 @@ test('rute tidak dikenal menampilkan 404', () => {
   buka('/tidak-ada')
   expect(screen.getByRole('heading', { name: '404' })).toBeInTheDocument()
 })
+
+test('beranda menampilan judul', () => {
+  buka('/')
+  expect(screen.getByRole('Daftar Tontonan Film dan Serial', { name: '404' })).toBeInTheDocument()
+})
+
+test('tentang menampilan nama', () => {
+  buka('/tentang')
+  expect(screen.getByRole('heading', { name: 'Tentang' })).toBeInTheDocument()
+})
