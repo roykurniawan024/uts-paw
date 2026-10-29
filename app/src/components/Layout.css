@@ -33,6 +33,7 @@
   border-top: 1px solid #dcdcdc;
   color: #57606a;
   font-size: 0.9rem;
+  align-items: center;
 }
 
 .aksi {
@@ -102,4 +103,20 @@
   .daftar-kartu {
     grid-template-columns: 1fr;
   }
+}
+
+#header-tontonan {
+  border-bottom: 1px solid #e5e7eb;
+}
+
+#main-tontonan {
+  box-sizing: border-box;
+}
+
+#footer-tontonan {
+  text-align: center;
+}
+
+.menu a:hover {
+  text-decoration: underline;
 }
