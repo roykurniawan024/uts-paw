@@ -1,17 +1,24 @@
 # LAYARKACA24
 
-Nama: Roy Kurniawan
-NIM: 124140024
-Kelas: RA
-Tema: Daftar Tontonan Film dan Serial
-Deployment: https://roykurniawan024.github.io/uts-paw/
+- Nama: Roy Kurniawan
+- NIM: 124140024
+- Kelas: RA
+- Tema: Daftar Tontonan Film dan Serial
+- Deployment: https://roykurniawan024.github.io/uts-paw/
 
+- Tampilan Beranda
 ![Tangkapan layar beranda](docs/beranda.png)
+- Tampilan Koleksi
 ![Tangkapan layar koleksi](docs/koleksi.png)
+- Tampilan Detail Film
 ![Tangkapan layar detail film](docs/detailFilm.png)
+- Tampilan Tambah
 ![Tangkapan layar tambah](docs/tambah.png)
+- Tampilan Statistik
 ![Tangkapan layar statistik](docs/statistik.png)
+- Tampilan Tentang
 ![Tangkapan layar tentang](docs/tentang.png)
+- Tampilan 404
 ![Tangkapan layar 404](docs/404.png)
 
 ## Fitur
