@@ -2,7 +2,7 @@ import { useState } from 'react'
 import useKoleksi from '../hooks/useKoleksi.js'
 import KotakPencarian from '../components/KotakPencarian.jsx'
 import KartuItem from '../components/KartuItem.jsx'
-import KategoriFilm from '..components/KategoriFilm.jsx'
+import KategoriFilm from '../components/KategoriFilm.jsx'
 
 export default function Koleksi() {
   const { items, loading, error } = useKoleksi()
@@ -24,7 +24,7 @@ export default function Koleksi() {
       <h1>Koleksi</h1>
       <div className="alat-koleksi">
         <KotakPencarian nilai={cari} onUbah={setCari} />
-        <KategoriFilm daftarKategori={daftarKategori} nilai={kategori} onUbah={setKategori} />
+        <KategoriFilm daftarKategori={daftarKategori} kategori={kategori} setKategori={setKategori} />
       </div>
       {tampil.length === 0 ? (
         <p>Tidak ada item yang cocok.</p>
