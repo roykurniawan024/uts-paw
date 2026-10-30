@@ -174,3 +174,19 @@
   border-radius: 6px;
   font-weight: 500;
 }
+
+.aksi button {
+  padding: 0.45rem 1rem;
+  background: #e50914;
+  color: #ffffff;
+  border: 0;
+  border-radius: 6px;
+  font: inherit;
+  cursor: pointer;
+}
+
+.aksi a,
+.isi p a {
+  color: #e50914;
+  text-decoration: none;
+}
